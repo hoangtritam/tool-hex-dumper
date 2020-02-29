@@ -1,0 +1,1 @@
+java -cp hex-dumper.jar mc8max.tool.hexdumper.Main %*
